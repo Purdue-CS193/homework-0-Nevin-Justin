@@ -2,6 +2,10 @@
 
 **Nevin's Neat Website**
 
+- I like that CS193 uses GitHub
+- I like the stand or sit activities during the lectures
+- I like coding overall, so I like CS193 as a class
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
